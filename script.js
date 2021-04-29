@@ -20,7 +20,7 @@ function check(){
         return false;
     }
     else{
-        if(!alert("REGISTERED SUCCESSFULLY")){
+        if(!alert( "REGISTERED SUCCESSFULLY" )){
             location.reload();
         }
         return false;
